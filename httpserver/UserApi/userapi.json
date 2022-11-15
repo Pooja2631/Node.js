@@ -1,0 +1,63 @@
+[
+    {
+        "id":1,
+        "name":"Pooja Gupta",
+        "username":"Pooja",
+        "email":"pooja@21",
+        "address":{
+            "city":"mandigobindgarh",
+            "zipcode":"147301",
+            "geo":{
+                "lat":"-37.3159",
+                "lng":"81.1496"
+            }
+        },
+        "phone":"1-770-456-x56442",
+        "website":"home.org",
+        "company":{
+            "name":"romaguera-Crona",
+            "bs":"real-time e-markets"
+        }
+    },
+    {
+        "id":2,
+        "name":"Deepti Chauhan",
+        "username":"Deepti",
+        "email":"Deepti@26",
+        "address":{
+            "city":"nodia",
+            "zipcode":"144231",
+            "geo":{
+                "lat":"-33.3258",
+                "lng":"82.1476"
+            }
+        },
+        "phone":"1-731-426-x56442",
+        "website":"about.org",
+        "company":{
+            "name":"rom-Crona",
+            "bs":"real-time e-life"
+        }
+    },
+    {
+        "id":3,
+        "name":"vishal Chauhan",
+        "username":"vishal",
+        "email":"Vishal@16",
+        "address":{
+            "city":"nodia",
+            "zipcode":"144231",
+            "geo":{
+                "lat":"-34.3258",
+                "lng":"83.1476"
+            }
+        },
+        "phone":"5-431-426-x56442",
+        "website":"website.org",
+        "company":{
+            "name":"Crona",
+            "bs":"real-time smile"
+        }
+    }
+   
+]
